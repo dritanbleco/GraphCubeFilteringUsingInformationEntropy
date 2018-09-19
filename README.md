@@ -1,7 +1,7 @@
 # GraphCubeFilteringUsingInformationEntropy
 
 ###### This repository provides sample code and datasets from the following publication:
-###### Bleco, D. , Kotidis, Y. Using Entropy Metrics for Pruning Very Large Graph Cubes, submitted to "Information Systems" journal.
+###### *Bleco, D. , Kotidis, Y. Using Entropy Metrics for Pruning Very Large Graph Cubes, submitted to "Information Systems" journal.*
 
 
 
