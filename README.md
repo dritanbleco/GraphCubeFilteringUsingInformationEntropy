@@ -2,7 +2,7 @@
 
 This repository provides sample code and datasets from the following publication:
 
-Bleco, D. , Kotidis, Y. Using Entropy Metrics for Pruning Very Large Graph Cubes. submitted to "Information Systems" journal
+Bleco, D. , Kotidis, Y. Using Entropy Metrics for Pruning Very Large Graph Cubes, submitted to "Information Systems" journal.
 
 In order to run the code, we include a sample dataset that consists of two files (attributes.txt and LinkedData.txt zipped) 
 The file attributes.txt contains information about the graph nodes attributes while the linkedData.txt denoted the edges of the graph.
